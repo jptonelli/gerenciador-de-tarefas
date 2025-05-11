@@ -1,0 +1,12 @@
+COMANDOS PARA INICIAR UM PROJETO REACT
+
+-> npm create vite@5.5.2 .
+   Esse comando cria um ambiente onde seu projeto será executado
+
+-> npm install
+-> npm run dev
+   Esses comandos inicializam o ambiente e executam o projeto
+
+COMANDO PARA INICIAR O TAILWINDCSS
+-> npm install -D tailwindcss@3.4.10 postcss@8.4.41 autoprefixer@10.4.20
+-> npx tailwindcss init -p
